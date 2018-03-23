@@ -1,3 +1,2 @@
-# random-python-codes
-Some random python codes that I had laying around on my storage.
+# random-scripts
 Feel free to edit them or use them for yourself
